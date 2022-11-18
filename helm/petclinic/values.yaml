@@ -6,7 +6,7 @@ replicaCount: 1
 
 image:
   repository: ravi041/petclinic
-  tag: 3
+  tag: latest
   pullPolicy: IfNotPresent
 
 imagePullSecrets: []
